@@ -32,7 +32,7 @@ public class About extends AppCompatActivity {
         floatingActionButton_github.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Uri uri = Uri.parse("https://unsplash.com/license");
+                Uri uri = Uri.parse("https://github.com/shubhamnikam/SoundRecorder");
                 Intent intent = new Intent(Intent.ACTION_VIEW, uri);
                 try {
                     startActivity(intent);
