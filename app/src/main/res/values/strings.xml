@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SoundRecorder</string>
+    <string name="tap_on_mic_instruction">tap on mic to start recording</string>
+    <string name="msg_no_recording_found">No Recordings Found.</string>
+    <string name="about_libraries">About Libraries</string>
+    <string name="avloadingindicatorview">AVLoadingIndicatorView</string>
+    <string name="ionicons">Ionicons</string>
+    <string name="voice_demo_string">Voice 001</string>
+</resources>

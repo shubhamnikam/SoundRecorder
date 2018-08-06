@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <item name="android:actionMenuTextColor">@android:color/holo_red_light</item>
+        <item name="android:homeAsUpIndicator">@drawable/icon_close</item>
+
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+
+    </style>
+
+</resources>
